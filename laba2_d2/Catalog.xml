@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<product>
+		<type>teapot</type>
+		<model>Borch1.0</model>
+		<specif>
+			<power MS="W">9876</power>
+			<sizeCapacity MS="l">3</sizeCapacity>
+		</specif>
+		<price curr="$">600</price>
+	</product>
+	<product>
+		<type>teapot</type>
+		<model>Borch2.0</model>
+		<specif>
+			<power MS="W">1000</power>
+			<sizeCapacity MS="l">5</sizeCapacity>
+		</specif>
+		<price curr="$">666</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Gorizont</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>false</noFrost>
+			<energyConsum MS="KW/h">200</energyConsum>
+		</specif>
+		<price curr="$">300</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Smeg</model>
+		<specif>
+			<freezer>false</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">3700</energyConsum>
+		</specif>
+		<price curr="$">5600</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Smeg2.0</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">1200</energyConsum>
+		</specif>
+		<price curr="$">2000</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>Bosh3.0</model>
+		<specif>
+			<powerGrill MS="W">1000</powerGrill>
+			<powerWave MS="W">700</powerWave>
+			<sizeCamera MS="l">35</sizeCamera>
+		</specif>
+		<price curr="$">666</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>Bosh10.0</model>
+		<specif>
+			<powerGrill MS="W">3000</powerGrill>
+			<powerWave MS="W">765</powerWave>
+			<sizeCamera MS="l">20</sizeCamera>
+		</specif>
+		<price curr="$">1001</price>
+	</product>
+</catalog>
